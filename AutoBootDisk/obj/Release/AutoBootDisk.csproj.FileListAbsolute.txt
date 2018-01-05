@@ -1,0 +1,11 @@
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\bin\Release\AutoBootDisk.exe.config
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\bin\Release\AutoBootDisk.exe
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\bin\Release\AutoBootDisk.pdb
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Release\AutoBootDisk.Form1.resources
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Release\AutoBootDisk.Properties.Resources.resources
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Release\AutoBootDisk.csproj.GenerateResource.Cache
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Release\AutoBootDisk.csproj.CoreCompileInputs.cache
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Release\AutoBootDisk.exe
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Release\AutoBootDisk.pdb
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Release\AutoBootDisk.csprojResolveAssemblyReference.cache
+C:\Users\Sourcerer\source\repos\AutoBootDisk\AutoBootDisk\bin\Release\SevenZipSharp.dll

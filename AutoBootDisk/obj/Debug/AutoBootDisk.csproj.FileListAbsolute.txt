@@ -1,0 +1,10 @@
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\bin\Debug\AutoBootDisk.exe.config
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\bin\Debug\AutoBootDisk.exe
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\bin\Debug\AutoBootDisk.pdb
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Debug\AutoBootDisk.csprojResolveAssemblyReference.cache
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Debug\AutoBootDisk.Form1.resources
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Debug\AutoBootDisk.Properties.Resources.resources
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Debug\AutoBootDisk.csproj.GenerateResource.Cache
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Debug\AutoBootDisk.csproj.CoreCompileInputs.cache
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Debug\AutoBootDisk.exe
+c:\users\sourcerer\source\repos\AutoBootDisk\AutoBootDisk\obj\Debug\AutoBootDisk.pdb
