@@ -1,0 +1,114 @@
+<label1> Willkommen </ lang>
+<label2> Schritt 1 </ label2>
+<label3> Benutzerdefiniert oder automatisch? </ label3>
+<label22> Version 5.6 </ label22>
+<button15> Website </ button15>
+<button1> Benutzerdefiniert </ button1>
+<button2> Automatisch </ button2>
+<label6> Schritt 2 </ label6>
+<label7> Wählen Sie Verteilung </ label6>
+<button4> Weiter </ button4>
+<label13> Beschreibung </ label13>
+<label4> Schritt 2 </ label4>
+<label5> Wählen Sie ISO-Image </ label5>
+<button3> Wählen Sie </ button3>
+<button5> Weiter </ button5>
+<label8> Schritt 3 </ label8>
+<label9> Herunterladen </ label9>
+<label11> Dateipfad: </ label11>
+<label12> </ label12>
+<label10> 0% </ label10>
+<button6> Weiter </ button6>
+<button12> Abbrechen </ button12>
+<label16> Schritt 4 </ label16>
+<label17> Wählen Sie ein USB-Laufwerk </ label17>
+<button7> Weiter </ button7>
+<label15> Schritt 5 </ label15>
+<label18> Extrahieren von ISO-Dateien ... </ label18>
+<label20> 0% </ label20>
+<label14> Wie das Programm? </ label14>
+<label19> Erwägen Sie das Spenden </ label19>
+<button9> Spenden </ button9>
+<button13> Zurücksetzen </ button13>
+<Ubuntu> Eine sehr beliebte Linux-Distribution für Anfänger. Es basiert auf Debian Linux und verwendet den Gnome Desktop (Clean UI). Es ist für PCs gemacht. Es ist für mittlere bis hohe Maschinen ausgelegt. </ Ubuntu>
+<Kubuntu> Eine beliebte Linux-Distribution, die auf Ubuntu basiert, mit KDE und Plasma-Desktop. Es ist für mittlere bis hohe Maschinen gedacht. </ Kubuntu>
+<Lubuntu> Abkürzung für "Lightweight Ubuntu", es verwendet die LXDE-Desktop-Umgebung und ist für Low-End-Maschinen geeignet. </ Lubuntu>
+<Xubuntu> Xubuntu verwendet Xfce als Desktop-Umgebung und ist für Low-End-Maschinen geeignet. </ Xubuntu>
+<UbuntuStudio> Ubuntu Studio ist eine Distribution für allgemeine Multimediaproduktionen. Es ist perfekt für Songkünstler, Video-Editoren und andere Medienautoren. Es verwendet den Xfce-Desktop. Es ist für mittelhohe Maschinen </ UbuntuStudio> gemacht
+<Zenwalk> Zenwalk verwendet die Gnome-Desktop-Umgebung und basiert auf Slackware Linux. Zenwalks Ziel ist es, eine leichtgewichtige Linux Distribution zu sein. Es ist für Low-End-Maschinen gemacht. </ Zenwalk>
+<Slax> Slax ist ein kleines Betriebssystem, das nur 256 MB Speicherplatz benötigt. Das Motto lautet "Ihr Pocket-Betriebssystem". Es wird nur als Live-USB-Gerät erstellt, daher ist es nicht möglich, es als Computer-Desktop-Umgebung zu verwenden. Es ist für Low-End-Maschinen </ Slax> gemacht
+<SliTaz> SliTaz ist eines der winzigsten Betriebssysteme, die es gibt. Es ist 46MB groß und verwendet den OpenBox Window Manager. Es ist für Low-End-Maschinen gemacht. </ SliTaz>
+<MEPIS> MEPIS verwendet die KDE Plasma Desktop-Umgebung und ist eine Alternative zu Mandriva, SUSE Linux und Red Hat Linux. Es ist für Mittel-High-End-Maschinen </ MEPIS> gemacht
+<FrugalwareLinux> Frugalware Linux ist für fortgeschrittene Benutzer gedacht, die wissen, wie man die Befehlszeile benutzt. Frugalware Linux verwendet die KDE-Desktop-Umgebung. Es ist für mittelhohe Maschinen </ FrugalwareLinux> gemacht
+<LinuxConsole> Linux-Konsole ist nicht, was es scheint. Es ist eigentlich für Kinder gemacht und nutzt den MATE Desktop. Es ist für Low-End-Maschinen geeignet. </ LinuxConsole>
+<xPUD> xPUD ist eine weitere leichte LiveCD, die den LXDE Desktop verwendet. Es ist für Low-End-Maschinen gemacht. </ XPUD>
+<Mageia> Mageia verwendet die KDE Plasma Desktop-Umgebung mit angemessener Sicherheit. Es ist für mittelhohe Maschinen gemacht. </ Mageia>
+<SparkyLinux> Sparky Linux ist ein Desktop-orientiertes Debian-basiertes Betriebssystem. Es verwendet den LXQT-Desktop und ist für mittlere bis hohe Computer ausgelegt. </ SparkyLinux>
+<GentooLinux> Gentoo Linux wird hauptsächlich für das Portage Package Management System und die Xfce Desktop Environment verwendet und ist für Computer mit niedrigem bis mittlerem Wert gedacht. </ GentooLinux>
+<Edubuntu> Abkürzung für 'Educational Ubuntu', Edubuntu wurde für den Einsatz in Schulen und Institutionen entwickelt. Es verwendet die GNOME Desktop Environment und ist für Computer mit mittlerem bis hohem Niveau geeignet. </ Edubuntu>
+<PCLinuxOS> PCLinuxOS wurde für Personal Computer entwickelt und verwendet die KDE Plasma Desktop-Umgebung. Es wurde entwickelt, um Windows-Desktop-Umgebung zu imitieren, und ist für mittlere bis hohe Computer </ PCLinuxOS> gemacht
+<LinuxLite> Linux Lite dient dazu, Windows-Benutzer mit Linux vertraut zu machen, und verwendet den Xfce-Desktop. Es ist für Low-Medium-Computer </ LinuxLite> konzipiert
+<ElementaryOS> Elementary OS ist ein sehr elegantes Betriebssystem, und ist das Flaggschiff der Pantheon Desktop Environment, und ist für Mittel-High-End-Geräte gemacht </ ElementaryOS>
+<openSUSE> openSUSE ist die beste Option für Entwickler und Systemadministratoren von Softare. Es verwendet die GNOME-Desktop-Umgebung und ist für mittlere bis hohe Maschinen ausgelegt. </ OpenSUSE>
+<ArchLinux> Arch Linux verwendet das KISS-Prinzip ("Keep it simple, doof"), was bedeutet, dass es für Minimalismus, Einfachheit und Eleganz geschaffen wurde, was nicht auf die Website zutrifft, die mit Links vollgestopft ist. Es verwendet die CLI-Benutzeroberfläche und ist für Computer mit mittlerer bis hoher Leistung ausgelegt. </ ArchLinux>
+<Fedora> Fedora ist ein Desktop-orientiertes Betriebssystem mit dem GNOME-Desktop. Es ist für Mittel-High-End-Computer gemacht. </ Fedora>
+<UbuntuMATE> Ubuntu mit der MATE Desktop-Umgebung. Für Mittel-High-End-Computer gemacht. </ UbuntuMATE>
+<BodhiLinux> Bodhi Linux ist eine weitere leichte Linux-Distribution, die die Moksha Desktop-Umgebung verwendet. </ BodhiLinux>
+<MandrivaLinux> Mandriva Linux verwendet den KDE Plasma Desktop und verwendet den RPM Package Manager. Es ist eine Sicherung zwischen Mandrake Linux und Conectiva Linux. Es ist für Mittel-High-End-Computer gemacht. </ MandrivaLinux>
+<CrunchBang> CrunchBang Linux (nur abgekürzt #!), Und verwendet die Openbox Desktop Environment. Es ist abgekündigt, steht aber weiterhin als BunsenLabs zum Download bereit. Es ist für Computer mit mittlerem bis hohem Niveau geeignet. </ CrunchBang>
+<Peppermint> Peppermint ist ein Cloud-fokussiertes Betriebssystem, das auf Lubuntu basiert. Es nutzt die LXDE Desktop Environment und ist für Low-Medium-Computer gedacht. </ Peppermint>
+<BlackArchLinux> Arch Linux mit einem sicherheitsorientierten Twist. Es ist für Pentester und Cyberforensiker gemacht. Es verwendet die FluxBox-Benutzeroberfläche und ist für mittlere bis hohe Computer ausgelegt. [WARNUNG: VERWENDET BIS ZU 8 GB LAGERUNG] </ BlackArchLinux>
+<BackBox> Backbox ist ein Penstest-Betriebssystem, das die XFCE-Desktopumgebung verwendet. Es ist für Mittel-High-End-Computer gemacht. </ BackBox>
+<Tails> Tails ist eine auf persönliche Sicherheit ausgerichtete Linux-Distribution. In der Tat ist dies wahrscheinlich die sicherste, die Sie bekommen können. Jede einzelne Verbindung verwendet das TOR-Relay und alle nicht anonymen Verbindungen werden blockiert. Tails OS zerstört sich selbst und hinterlässt keinen Fingerabdruck, es sei denn, es wird ausdrücklich dazu aufgefordert. Die Desktop-Umgebung ist GNOME und für mittlere bis hohe Maschinen ausgelegt. </ Tails>
+<KaliLinux> Kali Linux ist eine der beliebtesten Pentesting-Linux-Distributionen, die den GNOME-Desktop verwenden. Hergestellt für Computer mit mittlerer bis hoher Qualität. </ KaliLinux>
+<SabayonLinux> Sabayon Linux ist eine italienische Gentoo-basierte Linux-Distribution, die den GNOME-Desktop verwendet. Es ist für Mittel-High-End-Computer gemacht. </ SabayonLinux>
+<PinguyOS> Das Pinguy OS enthält viele vorinstallierte Software und verwendet die GNOME Desktop Environment. Es ist für Mittel-High-End-Computer gemacht. </ PinguyOS>
+<AlpineLinux> Alpine Linux ist ein ressourcenschonendes, sicheres und einfaches Betriebssystem. Es ist für fortgeschrittene Benutzer gedacht, die keine grafische Benutzeroberfläche benötigen, da dies die Befehlszeile als Standardschnittstelle verwendet. Es ist für Computer mit niedrigem bis mittlerem Wert gedacht. </ AlpineLinux>
+<VoidLinux> Void Linux ist ein Betriebssystem, das den XBPS Package Manager und Cinnamon als Standard-Desktop-Umgebung verwendet. Es hat eine schnelle Boot-Zeit und ist für mittlere bis hohe Computer ausgelegt. </ VoidLinux>
+<NixOS> Nix OS verwendet die KDE Plasma Desktop-Umgebung. Es ist für Mittel-High-End-Computer gemacht </ NixOS>
+<TinHatLinux> Tin Hat Linux soll verhindern, dass die Regierung Sie ausspioniert. Es existiert nur im RAM, also wird alles nach dem Herunterfahren gelöscht. Es ist extrem sicher, stabil und schnell. Es verwendet die GNOME-GUI und ist für Computer mit mittlerer bis hoher Qualität ausgelegt. </ TinHatLinux>
+<CentOS> CentOS ist Red Hat Enterprise Linux kostenlos. Es verwendet sowohl GNOME als auch KDE Plasma, so dass Sie auswählen können, welche Umgebung Sie ausführen möchten. Empfohlen für mittlere bis hohe Rechner </ CentOS>
+<PuppyLinux> Zorin OS Core ist ein modernisiertes, elegantes Betriebssystem für Benutzer, die von Windows oder Macintosh kommen. Dies ist möglicherweise die beste Anfänger-Linux-Distribution aller Zeiten und verwendet den Zorin-Desktop als Standardschnittstelle. Dies ist für Mittel-High-End-Computer gemacht. </ PuppyLinux>
+<FreeBSD> FreeBSD ist nicht einmal ein Linux-Betriebssystem. Es ist komplett original und verfügt über eine Befehlszeilenschnittstelle. Es wird für Computer mit niedrigem bis mittlerem Wert empfohlen. </ FreeBSD>
+<KaOS> KaOS ist eine Standard-KDE-Distribution. Es wird für mittlere bis hohe Computer empfohlen. </ KaOS>
+<SteamOS> SteamOS wird von Valve Inc. hergestellt und ist ein benutzerdefiniertes Betriebssystem, das für den Dampfwerfer und all seine Spiele entwickelt wurde. Es verwendet die Steam Desktop-Umgebung und wird für Computer mit mittlerer bis hoher Qualität empfohlen. </ SteamOS>
+<ManjaroLinux> Manjaro Linux ist ein Arch-Linux-basiertes Linux-Betriebssystem, das auf Benutzerfreundlichkeit ausgerichtet ist. Es verwendet KDE und wird für mittlere bis hohe Maschinen empfohlen. </ ManjaroLinux>
+<KasperskyRescueDisk> Kaspersky Rescue Disk ist ein entscheidendes Hilfsprogramm für Leute, die Ransomware haben, die das Booten verhindert. Wir empfehlen Ihnen, immer eine Notfalldiskette bei sich zu haben, nur für den Fall. </ KasperskyRescueDisk>
+<DrWebLiveDisk> Mit der Dr. Web Live Disk können Sie nicht nur Malware entfernen, die Ihren Computer nicht bootfähig macht, sondern auch Daten wiederherstellen. </ DrWebLiveDisk>
+<OPHcrack> OPHCrack ist ein Windows Password Cracking Utility. Es ist nützlich, wenn Sie Ihr Passwort vergessen haben. </ OPHcrack>
+<Parsix> Parsix ist ein Debian-basiertes Betriebssystem, das den GNOME-Desktop verwendet. Das Projekt wird jetzt eingestellt. Es wird für mittlere bis hohe Maschinen empfohlen. </ Parsix>
+<ArchLabs> ArchLabs ist eine leichtgewichtige Linux-Version, die den Openbox-Window-Manager verwendet. Empfohlen für mittlere bis hohe Maschinen. </ ArchLabs>
+<EndlessOS> Das EndlessOS-Projekt ist für Bereiche ohne Internet optimiert. Es hat eine ganze Enzyklopädie, Rechner, Wörterbuch, Thesaurus und andere Anwendungen, auf die Sie ohne Internet zugreifen können. Diese Distribution verwendet EOS Shell und benötigt einen Mittel-High-End-Rechner. </ EndlessOS>
+<Solus> Solus ist ein Betriebssystem, das kein definiertes Ende der Lebensdauer hat. Wenn Sie es also installieren, wird es eigenständig aktualisiert. Es verwendet die GNOME-Desktopumgebung und wird für Computer mit mittlerer bis hoher Qualität empfohlen. </ Solus>
+<Deepin> Deepin ist eine chinesische Linux-Distribution, die auf Debian basiert. Sie konzentrieren sich auf eine benutzerfreundliche Oberfläche und sind laut Distrowatch die beliebteste chinesische Linux-Distribution. Es verwendet die Deepin Desktop Environment und wird für einen Mittel-High-End-Rechner </ Deepin> empfohlen
+<MXLinux> MX Linux ist eine mittelschwere Linux-Distribution, die auf Debian mit AntiX-Komponenten basiert. Es verwendet Xfce Desktop Environment und wird für mittlere bis hohe Maschinen empfohlen. </ MXLinux>
+<KDEneon> KDE Neon ist Ubuntu mit den neuesten KDE-Paketen. KDE Neon läuft auf der KDE-Desktopumgebung und wird für mittlere bis hohe Maschinen empfohlen. </ KDEneon>
+<ParrotSecurityOS> Parrot Security OS ist eine der besten Linux-Distributionen für Systemadministratoren. Es basiert auf Debian und nutzt die MATE Desktop Environment und konzentriert sich auf Schwachstellen und Sicherheit. Es wird für mittlere bis hohe Maschinen empfohlen. </ ParrotSecurityOS>
+<LXLE> LXLE basiert auf der neuesten Version von Ubuntu LTS und ist leichtgewichtig. Es konzentriert sich darauf, eine schöne visuelle Ästhetik zu schaffen, die sowohl auf alter als auch auf neuer Hardware funktioniert. Es verwendet LXDE als Desktopumgebung und wird für Low-End-Computer empfohlen. </ LXLE>
+<Android-x86> Dieses bemerkenswerte Betriebssystem hat das Ziel, Android-Betriebssysteme auf Computer zu portieren. Da es im Grunde Android auf dem PC ist, benötigt es keine High-End-Hardware, also sollten Sie in der Lage sein, es gut auf einem Low-End-Computer zu verwenden. </ Android-x86>
+<ferenOS> ferenOS basiert auf Linux Mint und verwendet die Cinnamon Desktop Environment. Es wird empfohlen, es auf mittelhohen Maschinen zu verwenden. </ FerenOS>
+<BlackLabLinux> Black Lab bedeutet nicht "Black Laboratory". Es bedeutet "Schwarzer Labrador". Es verwendet die MATE Desktop-Umgebung und ist vor allem für die Unterstützung von Browser-Plugins und -Paketen für die Multimedia-Produktion bekannt. Es wird empfohlen, es auf einem mittelhohen Computer </ BlackLabLinux> zu verwenden
+<TinyCoreLinux> Tiny Core Linux ist eine niedliche 12MB Linux Distribution mit einem Command Line Interface. Es wird für Low-End-Maschinen empfohlen. </ TinyCoreLinux>
+<4MLinux> 4M Linux ist ein kleines Betriebssystem </ 4MLinux>
+<BluestarLinux> Bluestar Linux basiert auf Arch Linux und enthält den KDE Plasma Desktop. Es wird für mittlere bis hohe Maschinen empfohlen. </ BluestarLinux>
+<QubesOS> Qubes OS ist ein sicherheitsorientiertes Betriebssystem, bei dem "Sicherheit durch Isolation" im Vordergrund steht. Es basiert auf Fedora und nutzt die Xfce Desktop-Umgebung. Es wird für Maschinen mit niedrigem bis mittlerem Wert empfohlen. </ QubesOS>
+<Netrunner> Netrunner ist eine Debian-basierte Linux-Distribution mit einer hochgradig anpassbaren KDE-Desktop-Umgebung. </ Netrunner>
+<ROSA> ROSA ist eine russische Linux-Distribution, die die KDE Plasma Desktop Environment verwendet. Empfohlen für mittlere bis hohe Computer. </ ROSA>
+<ExTiX> ExTiX ist eine Linux-Distribution mit KDE Plasma als Desktop-Umgebung. Empfohlen für mittlere bis hohe Computer. </ ExTiX>
+<ClearOS> ClearOS ist eine Server-Distribution, dh es sollte nur auf einem High-End-Computer verwendet werden. Ich kenne die Desktop-Umgebung immer noch nicht als GNOME oder KDE </ ClearOS>
+<RedcoreLinux> Redcore Linux wurde entwickelt, um die Möglichkeiten von Gentoo Linux zu erhöhen. Es läuft unter LXQt Desktop Environment, daher wird es für Computer mit niedrigem bis mittlerem Endwert empfohlen </ RedcoreLinux>
+<RevengeOS> Revenge OS basiert auf Arch Linux und verwendet die LXQt Desktop Environment und wird für Computer mit niedrigem bis mittlerem Wert empfohlen. </ RevengeOS>
+<ClonezillaLive> Clonezilla ist ein Disk Cloner und Datenwiederhersteller. Es ist ein Dienstprogramm. </ ClonezillaLive>
+<ChakraLinux> Chakra Linux basiert auf Arch Linux und konzentriert sich auf KDE Software. Es verwendet KDE Plasma Desktop, daher wird es für einen Computer mit mittlerer bis hoher Qualität empfohlen. </ ChakraLinux>
+<GeckoLinux> GeckoLinux ist eine Linux-Distribution, die auf openSUSE basiert und eine Out-of-the-Box-Benutzerfreundlichkeit bietet. Es verwendet den GNOME-Desktop, daher ist es am besten für einen Computer mit mittlerer bis hoher Qualität geeignet. </ GeckoLinux>
+<NuTyX> NuTyX ist eine französische Linux Distribution. </ NuTyX>
+<SharkLinux> SharkLinux ist eine Ubuntu-basierte Linux-Distribution, die automatisch Updates und Sicherheitspatches installiert. </ SharkLinux>
+<VectorLinux> Vector Linux ist eine kleine Distribution, die für Low-Medium-Computer </ VectorLinux> empfohlen wird
+<ScientificLinux> Red Hat Enterprise Linux ist neu programmiert, um frei zu sein und für die Wissenschaft gebaut zu werden! </ ScientificLinux>
+<TrisquelLinux> 100% auf Ubuntu gebaut. Es ist für verschiedene Zielgruppen wie Büro- und Heimanwender geeignet. Empfohlen für Low-End-Maschinen. </ TrisquelLinux>
+<AbsoluteLinux> Sehr leichtes Repackage von Slackware Linux. Verwendet IceWM Desktop-Umgebung. Empfohlen für Low-End-Maschinen. </ AbsoluteLinux>
+<MintCinnamet> Linux Mint ist eine Ubuntu-basierte Distribution, die sich auf eine Out-of-the-Box-Erfahrung konzentriert. Eigenschaften Zimt-Desktop-Umgebung. Empfohlen für mittelhohe Maschinen. </ MintCinnam>
+<MintKDE> Linux Mint ist eine Ubuntu-basierte Distribution, die sich auf eine Out-of-the-Box-Erfahrung konzentriert. Funktionen KDE Plasma Desktop-Umgebung. Empfohlen für mittelhohe Maschinen. </ MintKDE>
+<MintMATE> Linux Mint ist eine Ubuntu-basierte Distribution, die sich auf eine Out-of-the-Box-Erfahrung konzentriert. Features MATE Desktopumgebung. Empfohlen für mittlere bis hohe Maschinen. </ MintMATE>
+<MintXfce> Linux Mint ist eine Ubuntu-basierte Distribution, die sich auf eine Out-of-the-Box-Erfahrung konzentriert. Funktionen Xfce Desktop-Umgebung. Empfohlen für mittlere bis hohe Maschinen. </ MintXfce>
+<Debian> Vermutlich eines der beliebtesten Betriebssysteme zu sein, ist Debian praktisch der Keim für die meisten Linux-Distributionen auf dem Markt. Es verfügt über eine GNOME-Desktop-Umgebung und wird für mittlere bis hohe Maschinen empfohlen. </ Debian>

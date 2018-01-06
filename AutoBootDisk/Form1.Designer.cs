@@ -79,6 +79,7 @@
             this.label18 = new System.Windows.Forms.Label();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.panel1 = new System.Windows.Forms.Panel();
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel5.SuspendLayout();
@@ -334,6 +335,7 @@
             "ClearOS",
             "ClonezillaLive",
             "CrunchBang",
+            "Debian",
             "Deepin",
             "DrWebLiveDisk",
             "Edubuntu",
@@ -359,6 +361,10 @@
             "MandrivaLinux",
             "ManjaroLinux",
             "MEPIS",
+            "MintCinnamon",
+            "MintKDE",
+            "MintMATE",
+            "MintXfce",
             "MXLinux",
             "Netrunner",
             "NixOS",
@@ -819,18 +825,30 @@
             // 
             this.saveFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.saveFileDialog1_FileOk);
             // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(10)))), ((int)(((byte)(40)))));
+            this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
+            this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel1.Location = new System.Drawing.Point(1019, 445);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(85, 83);
+            this.panel1.TabIndex = 14;
+            this.panel1.Click += new System.EventHandler(this.panel1_Click_1);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(10)))), ((int)(((byte)(40)))));
             this.ClientSize = new System.Drawing.Size(1104, 528);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel6);
             this.Controls.Add(this.panel7);
             this.Controls.Add(this.panel8);
-            this.Controls.Add(this.panel3);
-            this.Controls.Add(this.panel5);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
@@ -902,6 +920,7 @@
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.Panel panel1;
     }
 }
 

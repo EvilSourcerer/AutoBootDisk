@@ -1,0 +1,115 @@
+<label1>Welcome</lang>
+<label2>Step 1</label2>
+<label3>Custom Or Automatic?</label3>
+<label22>Version 5.6</label22>
+<button15>Website</button15>
+<button1>Custom</button1>
+<button2>Automatic</button2>
+<label6>Step 2</label6>
+<label7>Select Distribution</label6>
+<button4>Next</button4>
+<label13>Description</label13>
+<label4>Step 2</label4>
+<label5>Select ISO image</label5>
+<button3>Select</button3>
+<button5>Next</button5>
+<label8>Step 3</label8>
+<label9>Downloading</label9>
+<label11>Filepath : </label11>
+<label12></label12>
+<label10>0%</label10>
+<button6>Next</button6>
+<button12>Cancel</button12>
+<label16>Step 4</label16>
+<label17>Select a USB Drive</label17>
+<button7>Next</button7>
+<label15>Step 5</label15>
+<label18>Extracting ISO files...</label18>
+<label20>0%</label20>
+<label14>Like the program?</label14>
+<label19>Consider Donating</label19>
+<button9>Donate</button9>
+<button13>Reset</button13>
+<Ubuntu>A very popular Linux distrubution made for beginners. It is based on Debian Linux and uses the Gnome Desktop(Clean UI). It is made for personal computers. It is made for Medium to High end machines.</Ubuntu>
+<Kubuntu>A popular Linux distrubution based off of Ubuntu, features KDE and Plasma desktop. It is meant for Medium to High end machines.</Kubuntu>
+<Lubuntu>Short for 'Lightweight Ubuntu', it uses the LXDE desktop environment, and is made for low-medium end machines.</Lubuntu>
+<Xubuntu>Xubuntu uses the Xfce as the desktop environment, and is made for low-medium end machines.</Xubuntu>
+<UbuntuStudio>Ubuntu Studio is a distribution designed for general multimedia production. It is perfect for song artists, video editors, and other media authors. It uses the Xfce desktop. It is made for medium-high end machines</UbuntuStudio>
+<Zenwalk>Zenwalk uses the Gnome desktop environment, and is based on Slackware Linux. Zenwalk's goal is to be a lightweight linux distribution. It is made for low end machines.</Zenwalk>
+<Slax>Slax is a tiny operating system requiring only 256MB of storage. It's motto is 'Your Pocket Operating System'. It is only built as a Live USB, so it is not possible to use it as a computer desktop environment. It is made for low end machines</Slax>
+<SliTaz>SliTaz is one of the most tiny operating systems possible. It is 46MB in size and uses the OpenBox Window Manager. It is made for low end machines.</SliTaz>
+<MEPIS>MEPIS uses the KDE Plasma Desktop Environment, and is made as an alternative to Mandriva, SUSE Linux, and Red Hat Linux. It is made for medium-high end machines</MEPIS>
+<FrugalwareLinux>Frugalware Linux is made for intermediate users which know how to use the command line. Frugalware Linux uses the KDE Desktop Environment. It is made for medium-high end machines</FrugalwareLinux>
+<LinuxConsole>Linux Console is not what it seems. It is actually made for kids and uses the MATE Desktop. It is made for low-medium end machines.</LinuxConsole>
+<xPUD>xPUD is another light LiveCD, which uses the LXDE Desktop. It is made for low end machines.</xPUD>
+<Mageia>Mageia uses the KDE Plasma desktop environment with reasonable security. It is made for medium-high end machines.</Mageia>
+<SparkyLinux>Sparky Linux is a Desktop-Oriented Debian-based operating system. It uses the LXQT desktop and is made for medium-high end computers.</SparkyLinux>
+<GentooLinux>Gentoo Linux is mostly credited for it's Portage Package Management System, and uses the Xfce Desktop Environment and is made for low-medium end computers.</GentooLinux>
+<Edubuntu>Short for 'Educational Ubuntu', Edubuntu is made to be used in school and institutions. It uses the GNOME Desktop Environment, and is made for medium-high end computers.</Edubuntu>
+<PCLinuxOS>PCLinuxOS is made for personal computers and uses the KDE Plasma Desktop Environment. It is made to mimic Windows desktop environment, and is made for medium-high end computers</PCLinuxOS>
+<LinuxLite>Linux Lite is made to introduce Windows users to Linux, and uses the Xfce Desktop. It is designed for low-medium end computers</LinuxLite>
+<ElementaryOS>Elementary OS is a very elegant operating system, and is the flagship of the Pantheon Desktop Environment, and is made for medium-high end devices</ElementaryOS>
+<openSUSE>openSUSE is the best option for Softare Developers and System Administrators. It uses the GNOME Desktop Environment, and is made for medium-high end machines.</openSUSE>
+<ArchLinux>Arch Linux uses the KISS Principle ('Keep it simple, stupid') , meaning that it is made for minimalism, simplicity, and elegance, which seems to not apply to the website, which is cluttered with links. It uses the CLI User Interface, and is made for medium-high end computers.</ArchLinux>
+<Fedora>Fedora is a desktop-oriented operating system featuring the GNOME desktop. It is made for medium-high end computers.</Fedora>
+<UbuntuMATE>Ubuntu with the MATE desktop environment. Made for medium-high end computers.</UbuntuMATE>
+<BodhiLinux>Bodhi linux is another lightweight linux distribution using the Moksha desktop environment.</BodhiLinux>
+<MandrivaLinux>Mandriva Linux uses the KDE Plasma Desktop and uses the RPM Package Manager. It is a fuse between Mandrake Linux and Conectiva Linux. It is made for medium-high end computers.</MandrivaLinux>
+<CrunchBang>CrunchBang Linux (Abbreviated simply #!), and uses the Openbox Desktop Environment. It is discontinued, but is still available for download as BunsenLabs. it is made for medium-high end computers.</CrunchBang>
+<Peppermint>Peppermint is a cloud-focused OS based on Lubuntu. It uses the LXDE Desktop Environment and is made for low-medium end computers.</Peppermint>
+<BlackArchLinux>Arch Linux with a Security-Oriented twist. It is made for Pentesters and Cyberforensics. It uses the FluxBox UI and is made for medium-high end computers. [WARNING : USES UP TO 8GB OF STORAGE]</BlackArchLinux>
+<BackBox>Backbox is a pentesting OS using the XFCE Desktop Environment. It is made for medium-high end computers.</BackBox>
+<Tails>Tails is a Linux distrubition oriented toward personal security. In fact, this is probably the most secure you can get. Every single connection uses the TOR Relay and all non-anonymous connections are blocked. Tails OS self destructs and leaves no fingerprint unless explicitly told to do so. The Desktop Environment is GNOME and is made for medium-high end machines.</Tails>
+<KaliLinux>Kali Linux is a the most popular pentesting linux distribution using the GNOME Desktop. Made for medium-high end computers.</KaliLinux>
+<SabayonLinux>Sabayon Linux is an Italian Gentoo-based linux distribution using the GNOME Desktop. It is made for medium-high end computers.</SabayonLinux>
+<PinguyOS>Pinguy OS includes many pre-installed software and uses the GNOME Desktop Environment. It is made for medium-high end computers.</PinguyOS>
+<AlpineLinux>Alpine Linux is a resource efficient, secure, simple operating system. It is made for advanced users who do not require a Graphical User Interface, as this uses Command Line as it's default interface. It is made for low-medium end computers.</AlpineLinux>
+<VoidLinux>Void Linux is an OS using the XBPS Package Manager and Cinnamon as it's default desktop environment. It has a quick boot time and is made for medium-high end computers.</VoidLinux>
+<NixOS>Nix OS uses the KDE Plasma Desktop Environment. It is made for medium-high end computers</NixOS>
+<TinHatLinux>Tin Hat Linux is made to prevent the government from spying on you. It only exists in RAM, so everything is wiped after shutdown. It is made to be extremely secure, stable, and fast. It uses the GNOME GUI, and is made for medium-high end computers.</TinHatLinux>
+<CentOS>CentOS is Red Hat Enterprise Linux for free. It uses both GNOME and KDE Plasma, so you can choose what environment you wish to run. Recommended for medium-high end computers</CentOS>
+<PuppyLinux>Puppy Linux is a popular small linux distiribution.</PuppyLinux>
+<ZorinOS>Zorin OS Core is a modernized, elegant OS made for people arriving from Windows or Macintosh. This may be the best beginner Linux Distribution ever, and uses the Zorin Desktop as its default interface. This is made for medium-high end computers.</PuppyLinux>
+<FreeBSD>FreeBSD isn't even a linux operating system. It is completely original, and has a Command Line Interface. It is recommended for low-medium end computers.</FreeBSD>
+<KaOS>KaOS is a standard KDE distribution. It is recommended for medium-high end computers.</KaOS>
+<SteamOS>SteamOS is made by Valve Inc. and is a custom operating system built to handle the steam launcher and all of its games. It uses the Steam Desktop Environment and is recommended for medium-high end computers.</SteamOS>
+<ManjaroLinux>Manjaro Linux is a Arch-Linux based Linux OS focused on user-friendliness. It uses KDE and is recommended for medium-high end machines.</ManjaroLinux>
+<KasperskyRescueDisk>Kaspersky Rescue Disk is a crucial utility for people who may have ransomware that prevents you from booting. We recommend you always have a rescue disk with you at all times just in case.</KasperskyRescueDisk>
+<DrWebLiveDisk>The Dr. Web Live Disk will allow you not only to remove malware that makes your computer non-bootable, but also allows you to recover data as well.</DrWebLiveDisk>
+<OPHcrack>OPHCrack is a Windows Password Cracking Utility. It is useful if you forgot your password.</OPHcrack>
+<Parsix>Parsix is a Debian based OS using the GNOME desktop. The project is now discontinued. It is recommended for medium-high end machines.</Parsix>
+<ArchLabs>ArchLabs is a lightweight rolling Linux version using the Openbox window manager. Recommended for medium-high end machines.</ArchLabs>
+<EndlessOS>The EndlessOS project is optimized for areas without internet. It has an entire encyclopedia, calculator, dictionary, thesaurus, and other applications you can access without internet. This distrubution uses EOS Shell, and needs a medium-high end machine.</EndlessOS>
+<Solus>Solus is an OS that has no defined End Of Life, so if you install it, it will update indefinently. It uses the GNOME Desktop Environment and is recommended for medium-high end computers.</Solus>
+<Deepin>Deepin is a chinese Linux distribution based on Debian. They are focused on a user-friendly UI, and is the most popular chinese Linux distribution according to Distrowatch. It uses the Deepin Desktop Environment, and is recommended for a medium-high end machine</Deepin>
+<MXLinux>MX Linux is a midweight Linux Distribution based on Debian with antiX components. It uses Xfce Desktop Environment, and is recommended for medium-high end machines.</MXLinux>
+<KDEneon>KDE Neon is Ubuntu with the latest KDE packages. KDE Neon runs on the KDE Desktop Environment and is recommended for medium-high end machines.</KDEneon>
+<ParrotSecurityOS>Parrot Security OS is one of the best Linux Distributions for System Administrators. It is based off of Debian and uses the MATE Desktop Environment, and is focused on vulnerabilities and security. It is recommended for medium-high end machines.</ParrotSecurityOS>
+<LXLE>LXLE is based off of the latest Ubuntu LTS release, and is made to be lightweight. It focuses on making beautiful visual aesthetics that work on both old and new hardware. It uses LXDE as its Desktop Environment, and is recommended for low end machines.</LXLE>
+<Android-x86>This remarkable operating system has a goal of porting android OS to computers. Because it is basically Android on PC, it does not need any high end hardware, so you should be able to use it just fine on a low end computer.</Android-x86>
+<ferenOS>ferenOS is based on Linux Mint and uses the Cinnamon Desktop Environment. It is recommended to be used on medium-high end machines.</ferenOS>
+<BlackLabLinux>Black Lab does not mean 'Black Laboratory'. It means 'Black Labrador'. It uses the MATE Desktop Environment and is most noted for its support of browser plugins and packages for multimedia production. It is recommended to be used on a medium-high end computer</BlackLabLinux>
+<TinyCoreLinux>Tiny Core Linux is a cute 12MB linux distribution with a Command Line Interface. It is recommended for low end machines.</TinyCoreLinux>
+<4MLinux>4M Linux is a small-sized OS</4MLinux>
+<BluestarLinux>Bluestar Linux is based off of Arch Linux and features the KDE Plasma desktop. It is recommended for medium-high end machines.</BluestarLinux>
+<QubesOS>Qubes OS is a security oriented operating system using 'Security by isolation' as their main focus. It is based on Fedora and uses the Xfce desktop environment. It is recommended for low-medium end machines.</QubesOS>
+<Netrunner>Netrunner is a debian based linux distribution with a highly customizable KDE desktop environment.</Netrunner>
+<ROSA>ROSA is a Russian Linux distribution using the KDE Plasma Desktop Environment. Recommended for medium-high end computers.</ROSA>
+<ExTiX>ExTiX is a Linux Distribution featuring KDE Plasma as the Desktop Environment. Recommended for medium-high end computers.</ExTiX>
+<ClearOS>ClearOS is a Server distribution, which means that it should only be used on a high end computer. I still don't know the desktop environment its either GNOME or KDE</ClearOS>
+<RedcoreLinux>Redcore Linux is made to bring the power of Gentoo Linux to the masses. It operates under LXQt Desktop Environment, so it is recommended for low-medium end computers</RedcoreLinux>
+<RevengeOS>Revenge OS is based under Arch Linux and uses the LXQt Desktop Environment, and is recommended for low-medium end computers.</RevengeOS>
+<ClonezillaLive>Clonezilla is a disk cloner and data recoverer. It is a utility.</ClonezillaLive>
+<ChakraLinux>Chakra Linux is based on Arch Linux and focuses on KDE Software. It uses KDE Plasma Desktop, so it is recommended for a medium-high end computer.</ChakraLinux>
+<GeckoLinux>GeckoLinux is a linux distribution based off of openSUSE and features out-of-the-box usability. It uses the GNOME desktop, so it is best for a medium-high end computer.</GeckoLinux>
+<NuTyX>NuTyX is a French Linux Distribution.</NuTyX>
+<SharkLinux>SharkLinux is a Ubuntu-based Linux distribution that automatically installs updates and security patches.</SharkLinux>
+<VectorLinux>Vector Linux is a small distribution that is recommended for low-medium end computers</VectorLinux>
+<ScientificLinux>Red Hat Enterprise Linux recoded to be free and built for science!</ScientificLinux>
+<TrisquelLinux>100% built on Ubuntu. It is made for various audiences such as office and home users. Recommended for low end machines.</TrisquelLinux>
+<AbsoluteLinux>Very Lightweight repackage of Slackware Linux. Uses IceWM Desktop Environment. Recommended for low end machines.</AbsoluteLinux>
+<MintCinnamon>Linux Mint is an Ubuntu-based distribution focused on a more out-of-the-box experience. Features Cinnamon Desktop Environment. Recommended for medium-high end machines.</MintCinnamon>
+<MintKDE>Linux Mint is an Ubuntu-based distribution focused on a more out-of-the-box experience. Features KDE Plasma Desktop Environment. Recommended for medium-high end machines.</MintKDE>
+<MintMATE>Linux Mint is an Ubuntu-based distribution focused on a more out-of-the-box experience. Features MATE Desktop Environment. Recommended for medium-high end machines.</MintMATE>
+<MintXfce>Linux Mint is an Ubuntu-based distribution focused on a more out-of-the-box experience. Features Xfce Desktop Environment. Recommended for medium-high end machines.</MintXfce>
+<Debian>Suspected to be one of the most popular operating systems, Debian is practically the seed for most Linux Distritutions in the market. It features GNOME desktop environment and is recommended for medium-high end machines.</Debian>
