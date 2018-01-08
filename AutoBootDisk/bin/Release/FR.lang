@@ -1,0 +1,114 @@
+<label1> Bienvenue </ lang>
+<label2> Étape 1 </ label2>
+<label3> Personnalisé ou automatique? </ label3>
+<label22> Version 5.6 </ label22>
+<button15> Site Web </ button15>
+<button1> Personnalisé </ button1>
+<button2> Automatique </ button2>
+<label6> Étape 2 </ label6>
+<label7> Sélectionnez Distribution </ label6>
+<button4> Suivant </ button4>
+<label13> Description </ label13>
+<label4> Étape 2 </ label4>
+<label5> Sélectionnez l'image ISO </ label5>
+<button3> Sélectionnez </ button3>
+<button5> Suivant </ button5>
+<label8> Étape 3 </ label8>
+<label9> Téléchargement </ label9>
+<label11> Filepath: </ label11>
+<label12> </ label12>
+<label10> 0% </ label10>
+<button6> Suivant </ button6>
+<button12> Annuler </ button12>
+<label16> Étape 4 </ label16>
+<label17> Sélectionnez une clé USB </ label17>
+<button7> Suivant </ button7>
+<label15> Étape 5 </ label15>
+<label18> Extraction des fichiers ISO ... </ label18>
+<label20> 0% </ label20>
+<label14> Comme le programme? </ label14>
+<label19> Envisagez de faire un don </ label19>
+<button9> Faire un don </ button9>
+<button13> Réinitialiser </ button13>
+<Ubuntu> Une distrubution Linux très populaire faite pour les débutants. Il est basé sur Debian Linux et utilise le bureau Gnome (Clean UI). Il est fait pour les ordinateurs personnels. Il est fait pour les machines de moyen à haut de gamme. </ Ubuntu>
+<Kubuntu> Une distribution Linux populaire basée sur Ubuntu, dispose de bureau KDE et Plasma. Il est destiné aux machines de moyenne à haute gamme. </ Kubuntu>
+<Lubuntu> Abréviation de «Lightweight Ubuntu», il utilise l'environnement de bureau LXDE et est conçu pour les machines de faible et moyenne puissance. </ Lubuntu>
+<Xubuntu> Xubuntu utilise Xfce comme environnement de bureau et est conçu pour les machines de faible et moyenne puissance. </ Xubuntu>
+<UbuntuStudio> Ubuntu Studio est une distribution conçue pour la production multimédia générale. Il est parfait pour les artistes de la chanson, les éditeurs vidéo et autres auteurs de médias. Il utilise le bureau Xfce. Il est fait pour les machines de moyenne et haute qualité </ UbuntuStudio>
+<Zenwalk> Zenwalk utilise l'environnement de bureau Gnome et est basé sur Slackware Linux. L'objectif de Zenwalk est d'être une distribution Linux légère. Il est fait pour les machines bas de gamme. </ Zenwalk>
+<Slax> Slax est un minuscule système d'exploitation ne nécessitant que 256 Mo de stockage. Sa devise est «Votre système d'exploitation de poche». Il est seulement construit comme un USB Live, il n'est donc pas possible de l'utiliser comme environnement de bureau. Il est fait pour les machines bas de gamme </ Slax>
+<SliTaz> SliTaz est l'un des systèmes d'exploitation les plus minuscules possibles. Il a une taille de 46 Mo et utilise OpenBox Window Manager. Il est fait pour les machines bas de gamme. </ SliTaz>
+<MEPIS> MEPIS utilise l'environnement de bureau KDE Plasma et est conçu comme une alternative à Mandriva, SUSE Linux et Red Hat Linux. Il est conçu pour les machines de moyenne et haute qualité </ MEPIS>
+<FrugalwareLinux> Frugalware Linux est conçu pour les utilisateurs intermédiaires qui savent utiliser la ligne de commande. Frugalware Linux utilise l'environnement de bureau KDE. Il est fait pour les machines de moyenne et haute puissance </ FrugalwareLinux>
+<LinuxConsole> Linux Console n'est pas ce qu'il semble. Il est en fait fait pour les enfants et utilise le bureau MATE. Il est conçu pour les machines de faible et moyenne puissance. </ LinuxConsole>
+<xPUD> xPUD est un autre LiveCD léger, qui utilise le bureau LXDE. Il est fait pour les machines bas de gamme. </ XPUD>
+<Mageia> Mageia utilise l'environnement de bureau KDE Plasma avec une sécurité raisonnable. Il est fait pour les machines de moyenne et haute gamme. </ Mageia>
+<SparkyLinux> Sparky Linux est un système d'exploitation basé sur Debian orienté bureau. Il utilise le bureau LXQT et est conçu pour les ordinateurs haut de gamme. </ SparkyLinux>
+<GentooLinux> Gentoo Linux est principalement crédité pour son système de gestion de paquets Portage, et utilise l'environnement de bureau Xfce et est conçu pour les ordinateurs bas et moyens. </ GentooLinux>
+<Edubuntu> Abréviation de 'Educational Ubuntu', Edubuntu est fait pour être utilisé dans les écoles et les institutions. Il utilise l'environnement de bureau GNOME et est conçu pour les ordinateurs de taille moyenne à élevée. </ Edubuntu>
+<PCLinuxOS> PCLinuxOS est conçu pour les ordinateurs personnels et utilise l'environnement de bureau KDE Plasma. Il est fait pour imiter l'environnement de bureau Windows, et est fait pour les ordinateurs de taille moyenne à haute </ PCLinuxOS>
+<LinuxLite> Linux Lite est conçu pour présenter les utilisateurs Windows à Linux et utilise Xfce Desktop. Il est conçu pour les ordinateurs bas et moyens. </ LinuxLite>
+<ElementaryOS> Elementary OS est un système d'exploitation très élégant, et est le produit phare de l'environnement de bureau Pantheon, et est fait pour les périphériques de moyenne et haute gamme </ ElementaryOS>
+<openSUSE> openSUSE est la meilleure option pour les développeurs Softare et les administrateurs système. Il utilise l'environnement de bureau GNOME et est conçu pour les machines de taille moyenne à haute. </ OpenSUSE>
+<ArchLinux> Arch Linux utilise le principe KISS («Keep it simple, stupid»), ce qui signifie qu'il est fait pour le minimalisme, la simplicité et l'élégance, ce qui ne semble pas s'appliquer au site Web encombré de liens. Il utilise l'interface utilisateur CLI et est conçu pour les ordinateurs haut et moyen. </ ArchLinux>
+<Fedora> Fedora est un système d'exploitation orienté sur le bureau avec le bureau GNOME. Il est fait pour les ordinateurs de taille moyenne à haute. </ Fedora>
+<UbuntuMATE> Ubuntu avec l'environnement de bureau MATE. Conçu pour les ordinateurs de taille moyenne à haute. </ UbuntuMATE>
+<BodhiLinux> Bodhi linux est une autre distribution Linux légère utilisant l'environnement de bureau Moksha. </ BodhiLinux>
+<MandrivaLinux> Mandriva Linux utilise KDE Plasma Desktop et utilise le gestionnaire de paquetages RPM. C'est un fusible entre Mandrake Linux et Conectiva Linux. Il est conçu pour les ordinateurs de taille moyenne à haute. </ MandrivaLinux>
+<CrunchBang> CrunchBang Linux (Abrégé simplement #!), Et utilise l'environnement de bureau Openbox. Il est discontinué, mais est toujours disponible en téléchargement en tant que BunsenLabs. Il est conçu pour les ordinateurs de taille moyenne à haute. </ CrunchBang>
+<Peppermint> Peppermint est un système d'exploitation axé sur le cloud basé sur Lubuntu. Il utilise l'environnement de bureau LXDE et est conçu pour les ordinateurs bas et moyens. </ Peppermint>
+<BlackArchLinux> Arch Linux avec une touche de sécurité. Il est fait pour Pentesters et Cyberforensics. Il utilise l'interface utilisateur FluxBox et est conçu pour les ordinateurs haut de gamme. [AVERTISSEMENT: UTILISE JUSQU'A 8GB DE STOCKAGE] </ BlackArchLinux>
+<BackBox> Backbox est un système d'exploitation pentesting utilisant l'environnement de bureau XFCE. Il est conçu pour les ordinateurs de taille moyenne à élevée. </ BackBox>
+<Tails> Tails est une distrubition Linux orientée vers la sécurité personnelle. En fait, c'est probablement le plus sûr que vous puissiez obtenir. Chaque connexion utilise le relais TOR et toutes les connexions non-anonymes sont bloquées. Tails OS s'auto-détruit et ne laisse aucune empreinte digitale à moins qu'on lui dise expressément de le faire. L'environnement de bureau est GNOME et est conçu pour les machines de taille moyenne à haute. </ Tails>
+<KaliLinux> Kali Linux est la distribution linux pentesting la plus populaire utilisant le bureau GNOME. Conçu pour les ordinateurs de taille moyenne à haute. </ KaliLinux>
+<SabayonLinux> Sabayon Linux est une distribution Linux Linux basée sur Gentoo utilisant le bureau GNOME. Il est conçu pour les ordinateurs de taille moyenne à haute. </ SabayonLinux>
+<PinguyOS> Pinguy OS inclut de nombreux logiciels pré-installés et utilise l'environnement de bureau GNOME. Il est conçu pour les ordinateurs de taille moyenne à haute. </ PinguyOS>
+<AlpineLinux> Alpine Linux est un système d'exploitation simple, efficace et sécurisé. Il est conçu pour les utilisateurs avancés qui n'ont pas besoin d'une interface utilisateur graphique, car elle utilise la ligne de commande comme interface par défaut. Il est conçu pour les ordinateurs bas et moyens. </ AlpineLinux>
+<VoidLinux> Void Linux est un système d'exploitation utilisant le gestionnaire de paquets XBPS et Cinnamon comme environnement de bureau par défaut. Il a un temps de démarrage rapide et est conçu pour les ordinateurs de taille moyenne à haute. </ VoidLinux>
+<NixOS> Nix OS utilise l'environnement de bureau KDE Plasma. Il est fait pour les ordinateurs de taille moyenne à haute </ NixOS>
+<TinHatLinux> Tin Hat Linux est fait pour empêcher le gouvernement de vous espionner. Il n'existe que dans la RAM, donc tout est effacé après l'arrêt. Il est fait pour être extrêmement sécurisé, stable et rapide. Il utilise l'interface graphique GNOME et est conçu pour les ordinateurs de taille moyenne à haute. </ TinHatLinux>
+<CentOS> CentOS est Red Hat Enterprise Linux gratuitement. Il utilise à la fois GNOME et KDE Plasma, de sorte que vous pouvez choisir l'environnement que vous souhaitez exécuter. Recommandé pour les ordinateurs de taille moyenne à élevée </ CentOS>
+<PuppyLinux> Zorin OS Core est un système d'exploitation moderne et élégant conçu pour les personnes arrivant de Windows ou Macintosh. Il s'agit peut-être de la meilleure distribution Linux pour débutants et utilise Zorin Desktop comme interface par défaut. Ceci est fait pour les ordinateurs moyens-haut de gamme. </ PuppyLinux>
+<FreeBSD> FreeBSD n'est même pas un système d'exploitation Linux. Il est complètement original et possède une interface de ligne de commande. Il est recommandé pour les ordinateurs bas et moyens. </ FreeBSD>
+<KaOS> KaOS est une distribution standard de KDE. Il est recommandé pour les ordinateurs de taille moyenne à haute. </ KaOS>
+<SteamOS> SteamOS est fabriqué par Valve Inc. et est un système d'exploitation personnalisé conçu pour gérer le lanceur de vapeur et tous ses jeux. Il utilise l'environnement de bureau Steam et est recommandé pour les ordinateurs de taille moyenne à haute. </ SteamOS>
+<ManjaroLinux> Manjaro Linux est un système d'exploitation Linux basé sur Arch-Linux et axé sur la convivialité. Il utilise KDE et est recommandé pour les machines de taille moyenne à haute. </ ManjaroLinux>
+<KasperskyRescueDisk> Kaspersky Rescue Disk est un utilitaire crucial pour les personnes qui peuvent avoir un ransomware qui vous empêche de démarrer. Nous vous recommandons de toujours avoir un disque de secours avec vous en tout temps au cas où. </ KasperskyRescueDisk>
+<DrWebLiveDisk> Le disque Dr.Web Live vous permettra non seulement de supprimer les logiciels malveillants qui rendent votre ordinateur non amorçable, mais également de récupérer des données. </ DrWebLiveDisk>
+<OPHcrack> OPHCrack est un utilitaire de cryptage de mot de passe Windows. C'est utile si vous avez oublié votre mot de passe. </ OPHcrack>
+<Parsix> Parsix est un système d'exploitation basé sur Debian utilisant le bureau GNOME. Le projet est maintenant arrêté. Il est recommandé pour les machines moyennement et haut de gamme. </ Parsix>
+<ArchLabs> ArchLabs est une version Linux légère et légère utilisant le gestionnaire de fenêtres Openbox. Recommandé pour les machines de moyenne et haute qualité. </ ArchLabs>
+<EndlessOS> Le projet EndlessOS est optimisé pour les zones sans Internet. Il a une encyclopédie entière, calculatrice, dictionnaire, thésaurus, et d'autres applications auxquelles vous pouvez accéder sans internet. Cette distribution utilise EOS Shell et nécessite une machine de taille moyenne à haute. </ EndlessOS>
+<Solus> Solus est un système d'exploitation qui n'a pas de fin de vie définie, donc si vous l'installez, il se mettra à jour indéfiniment. Il utilise l'environnement de bureau GNOME et est recommandé pour les ordinateurs de taille moyenne à élevée. </ Solus>
+<Deepin> Deepin est une distribution Linux chinoise basée sur Debian. Ils sont axés sur une interface utilisateur conviviale, et est la distribution Linux chinois la plus populaire selon Distrowatch. Il utilise l'environnement de bureau Deepin et est recommandé pour une machine de niveau moyen à élevé. </ Deepin>
+<MXLinux> MX Linux est une distribution Linux de poids moyen basée sur Debian avec des composants antiX. Il utilise Xfce Desktop Environment et est recommandé pour les machines de taille moyenne à haute. </ MXLinux>
+<KDEneon> KDE Neon est Ubuntu avec les derniers paquets KDE. KDE Neon fonctionne sur l'environnement de bureau KDE et est recommandé pour les machines de taille moyenne à haute. </ KDEneon>
+<ParrotSecurityOS> Parrot Security OS est l'une des meilleures distributions Linux pour les administrateurs système. Il est basé sur Debian et utilise l'environnement de bureau MATE, et se concentre sur les vulnérabilités et la sécurité. Il est recommandé pour les machines de moyenne et haute puissance. </ ParrotSecurityOS>
+<LXLE> LXLE est basé sur la dernière version d'Ubuntu LTS et est conçu pour être léger. Il se concentre sur la réalisation de belles esthétiques visuelles qui fonctionnent à la fois sur l'ancien et le nouveau matériel. Il utilise LXDE comme environnement de bureau et est recommandé pour les machines bas de gamme. </ LXLE>
+<Android-x86> Ce système d'exploitation remarquable a pour objectif de porter le système d'exploitation Android aux ordinateurs. Parce qu'il est essentiellement Android sur PC, il n'a pas besoin de matériel haut de gamme, donc vous devriez être capable de l'utiliser très bien sur un ordinateur bas de gamme. </ Android-x86>
+<ferenOS> ferenOS est basé sur Linux Mint et utilise l'environnement de bureau Cinnamon. Il est recommandé de l'utiliser sur des machines de moyenne et haute qualité. </ FerenOS>
+<BlackLabLinux> Black Lab ne signifie pas «Black Laboratory». Cela signifie «Labrador noir». Il utilise l'environnement de bureau MATE et est surtout connu pour sa prise en charge des plugins de navigateur et des paquets pour la production multimédia. Il est recommandé de l'utiliser sur un ordinateur de taille moyenne à haute </ BlackLabLinux>
+<TinyCoreLinux> Tiny Core Linux est une jolie distribution Linux de 12 Mo avec une interface de ligne de commande. Il est recommandé pour les machines bas de gamme. </ TinyCoreLinux>
+<4MLinux> 4M Linux est un système d'exploitation de petite taille </ 4MLinux>
+<BluestarLinux> Bluestar Linux est basé sur Arch Linux et inclut le bureau KDE Plasma. Il est recommandé pour les machines de moyenne et haute puissance. </ BluestarLinux>
+<QubesOS> Qubes OS est un système d'exploitation orienté sécurité qui utilise 'Security by isolation' comme objectif principal. Il est basé sur Fedora et utilise l'environnement de bureau Xfce. Il est recommandé pour les machines basses et moyennes. </ QubesOS>
+<Netrunner> Netrunner est une distribution linux basée sur Debian avec un environnement de bureau KDE hautement personnalisable. </ Netrunner>
+<ROSA> ROSA est une distribution Linux russe utilisant l'environnement de bureau KDE Plasma. Recommandé pour les ordinateurs de taille moyenne à haute. </ ROSA>
+<ExTiX> ExTiX est une distribution Linux avec KDE Plasma comme environnement de bureau. Recommandé pour les ordinateurs de taille moyenne à haute. </ ExTiX>
+<ClearOS> ClearOS est une distribution Serveur, ce qui signifie qu'elle ne doit être utilisée que sur un ordinateur haut de gamme. Je ne sais toujours pas l'environnement de bureau soit GNOME ou KDE </ ClearOS>
+<RedcoreLinux> Redcore Linux est fait pour apporter la puissance de Gentoo Linux aux masses. Il fonctionne sous LXQt Desktop Environment, il est donc recommandé pour les ordinateurs bas et moyens </ RedcoreLinux>
+<RevengeOS> Revenge OS est basé sous Arch Linux et utilise l'environnement de bureau LXQt, et est recommandé pour les ordinateurs bas et moyens. </ RevengeOS>
+<ClonezillaLive> Clonezilla est un cloneur de disque et un récupérateur de données. C'est un utilitaire. </ ClonezillaLive>
+<ChakraLinux> Chakra Linux est basé sur Arch Linux et se concentre sur les logiciels KDE. Il utilise KDE Plasma Desktop, donc il est recommandé pour un ordinateur de taille moyenne à haute. </ ChakraLinux>
+<GeckoLinux> GeckoLinux est une distribution linux basée sur openSUSE et dispose d'une facilité d'utilisation prête à l'emploi. Il utilise le bureau GNOME, il est donc préférable pour un ordinateur de taille moyenne à haute. </ GeckoLinux>
+<NuTyX> NuTyX est une distribution Linux française. </ NuTyX>
+<SharkLinux> SharkLinux est une distribution Linux basée sur Ubuntu qui installe automatiquement les mises à jour et les correctifs de sécurité. </ SharkLinux>
+<VectorLinux> Vector Linux est une petite distribution recommandée pour les ordinateurs bas et moyens </ VectorLinux>
+<ScientificLinux> Red Hat Enterprise Linux a été recodé pour être gratuit et conçu pour la science! </ ScientificLinux>
+<TrisquelLinux> 100% construit sur Ubuntu. Il est fait pour divers publics tels que les utilisateurs de bureau et à la maison. Recommandé pour les machines bas de gamme. </ TrisquelLinux>
+<AbsoluteLinux> Reconditionnement très léger de Slackware Linux. Utilise l'environnement de bureau IceWM. Recommandé pour les machines bas de gamme. </ AbsoluteLinux>
+<MintCinnamon> Linux Mint est une distribution basée sur Ubuntu qui se concentre sur une expérience plus «out-of-the-box». Caractéristiques Cinnamon Desktop Environment. Recommandé pour les machines de moyenne et haute gamme. </ MintCinnamon>
+<MintKDE> Linux Mint est une distribution basée sur Ubuntu qui se concentre sur une expérience plus «out-of-the-box». Caractéristiques KDE Plasma Desktop Environment. Recommandé pour les machines moyennement et haut de gamme. </ MintKDE>
+<MintMATE> Linux Mint est une distribution basée sur Ubuntu axée sur une expérience plus prête à l'emploi. Caractéristiques de l'environnement de bureau MATE. Recommandé pour les machines moyennement et haut de gamme. </ MintMATE>
+<MintXfce> Linux Mint est une distribution basée sur Ubuntu axée sur une expérience plus prête à l'emploi. Caractéristiques Xfce Desktop Environment. Recommandé pour les machines moyennement et haut de gamme. </ MintXfce>
+<Debian> Soupçonnée d'être l'un des systèmes d'exploitation les plus populaires, Debian est pratiquement la semence de la plupart des Distritions Linux sur le marché. Il dispose d'un environnement de bureau GNOME et est recommandé pour les machines de taille moyenne à haute. </ Debian>

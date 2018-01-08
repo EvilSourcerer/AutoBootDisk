@@ -75,8 +75,8 @@
 <SteamOS>SteamOS is made by Valve Inc. and is a custom operating system built to handle the steam launcher and all of its games. It uses the Steam Desktop Environment and is recommended for medium-high end computers.</SteamOS>
 <ManjaroLinux>Manjaro Linux is a Arch-Linux based Linux OS focused on user-friendliness. It uses KDE and is recommended for medium-high end machines.</ManjaroLinux>
 <KasperskyRescueDisk>Kaspersky Rescue Disk is a crucial utility for people who may have ransomware that prevents you from booting. We recommend you always have a rescue disk with you at all times just in case.</KasperskyRescueDisk>
-<DrWebLiveDisk>The Dr. Web Live Disk will allow you not only to remove malware that makes your computer non-bootable, but also allows you to recover data as well.</DrWebLiveDisk>
 <OPHcrack>OPHCrack is a Windows Password Cracking Utility. It is useful if you forgot your password.</OPHcrack>
+<DrWebLiveDisk>The Dr. Web Live Disk will allow you not only to remove malware that makes your computer non-bootable, but also allows you to recover data as well.</DrWebLiveDisk>
 <Parsix>Parsix is a Debian based OS using the GNOME desktop. The project is now discontinued. It is recommended for medium-high end machines.</Parsix>
 <ArchLabs>ArchLabs is a lightweight rolling Linux version using the Openbox window manager. Recommended for medium-high end machines.</ArchLabs>
 <EndlessOS>The EndlessOS project is optimized for areas without internet. It has an entire encyclopedia, calculator, dictionary, thesaurus, and other applications you can access without internet. This distrubution uses EOS Shell, and needs a medium-high end machine.</EndlessOS>

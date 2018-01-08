@@ -1,0 +1,114 @@
+<Label1> Welcome </ lang>
+<label2> Pasul 1 </ label2>
+<label3> Custom or Automatic? </ label3>
+<label22> Version 5.6 </ label22>
+<Button15> Site-ul </ button15>
+<Button1> Personalizat </ button1>
+<BUTTON2> Automat </ BUTTON2>
+<label6> Step 2 </ label6>
+<label7> Select Distribution </ label6>
+<Button4> Înainte </ button4>
+<Label13> Descriere </ label13>
+<label4> Pasul 2 </ label4>
+<label5> Selectați imaginea ISO </ label5>
+<Button3> Selectați </ button3>
+<Button5> Înainte </ button5>
+<label8> Pasul 3 </ label8>
+<Label9> Descărcarea </ label9>
+<label11> Pachetul de fișiere: </ label11>
+<Label12> </ label12>
+<Label10> 0% </ label10>
+<Button6> Înainte </ Button6>
+<Button12> Anulare </ button12>
+<label16> Pasul 4 </ label16>
+<label17> Selectați o unitate USB </ label17>
+<Button7> Înainte </ button7>
+<label15> Pasul 5 </ label15>
+<label18> Extragerea fișierelor ISO ... </ label18>
+<Label20> 0% </ label20>
+<label14> Ca programul? </ label14>
+<label19> Luați în considerare donarea </ label19>
+<Button9> Doneaza </ button9>
+<Button13> Reset </ button13>
+<Ubuntu> O distrubuție Linux foarte populară pentru începători. Se bazează pe Debian Linux și utilizează Gnome Desktop (Clean UI). Este destinat calculatoarelor personale. Este destinat mașinilor de tip Medium to High. </ Ubuntu>
+<Kubuntu> O distrubuție populară bazată pe Ubuntu, dotată cu desktop-uri KDE și Plasma. Este destinată mașinilor de tip Medium to High. </ Kubuntu>
+<Lubuntu> Scurt pentru Ubuntu ușoară, folosește mediul de lucru LXDE și este creat pentru mașinile cu un nivel mediu low. </ Lubuntu>
+<Xubuntu> Xubuntu folosește Xfce ca mediul desktop și este creat pentru mașini cu un nivel mediu și mic. </ Xubuntu>
+<UbuntuStudio> Ubuntu Studio este o distribuție destinată producției multimedia generale. Este perfect pentru artiști de melodii, editori video și alți autori media. Utilizează desktopul Xfce. Se face pentru mașini cu capăt mediu și mare </ UbuntuStudio>
+<Zenwalk> Zenwalk utilizează mediul desktop Gnome și se bazează pe Slackware Linux. Scopul lui Zenwalk este să fie o distribuție ușoară a linuxului. Este făcută pentru mașinile cu capăt inferior. </ Zenwalk>
+<Slax> Slax este un sistem de operare mic care necesită doar 256 MB de stocare. Motto-ul este "Sistemul dvs. de operare din buzunar". Acesta este construit doar ca un Live USB, deci nu este posibil să-l utilizați ca mediu de birou pentru calculatoare. Este destinat mașinilor cu capăt inferior </ Slax>
+<SliTaz> SliTaz este unul dintre cele mai mici sisteme de operare posibile. Are o dimensiune de 46MB și folosește OpenBox Window Manager. Este destinat mașinilor cu capăt inferior. </ SliTaz>
+<MEPIS> MEPIS utilizează mediul desktop KDE Plasma Desktop și se face ca o alternativă la Mandriva, SUSE Linux și Red Hat Linux. Este destinat mașinilor cu capăt mediu și mare </ MEPIS>
+<FrugalwareLinux> Frugalware Linux este făcut pentru utilizatorii intermediari care știu cum să folosească linia de comandă. Frugalware Linux folosește mediul desktop KDE. Este destinat mașinilor cu capăt mediu și mare </ FrugalwareLinux>
+<LinuxConsole> Consola Linux nu este ceea ce pare. Este de fapt făcut pentru copii și utilizează desktopul MATE. Se face pentru mașini cu un nivel scăzut de mediu. </ LinuxConsole>
+<xPUD> xPUD este un alt LiveCD, care utilizează desktopul LXDE. Este destinat mașinilor cu capăt inferior. </ XPUD>
+<Mageia> Mageia folosește mediul desktop KDE Plasma cu o securitate rezonabilă. Este destinat mașinilor cu capăt mediu și mare. </ Mageia>
+<SparkyLinux> Sparky Linux este un sistem de operare bazat pe desktopuri Debian. Utilizează desktopul LXQT și este creat pentru computere de nivel mediu și mare. </ SparkyLinux>
+<GentooLinux> Gentoo Linux este creditat în cea mai mare parte pentru sistemul său de administrare a pachetelor Portage și utilizează mediul Xfce Desktop și este creat pentru computerele low-end. </ GentooLinux>
+<Edubuntu> Scurt pentru "Educațional Ubuntu", Edubuntu este făcut pentru a fi folosit în școală și în instituții. Utilizează mediul de lucru GNOME și se face pentru computere medii și mari. </ Edubuntu>
+<PCLinuxOS> PCLinuxOS este conceput pentru computerele personale și utilizează mediul desktop KDE Plasma Desktop. Acesta este conceput pentru a imita mediul desktop Windows, și este făcut pentru computerele cu medii de vârf </ PCLinuxOS>
+<LinuxLite> Linux Lite este făcut pentru a introduce utilizatorii de Windows pe Linux, și utilizează Xfce Desktop. Este proiectat pentru computerele low-end </ LinuxLite>
+<ElementaryOS> Sistemul de operare elementar este un sistem de operare foarte elegant și este nava de bază a Pantheon Desktop Environment și este produsă pentru dispozitivele de tip medium-high </ ElementaryOS>
+<openSUSE> openSUSE este cea mai bună opțiune pentru Softare Developers și System Administrators. Utilizează mediul de lucru GNOME și se face pentru mașini cu capăt mediu și mare. </ OpenSUSE>
+<ArchLinux> Arch Linux folosește principiul KISS ("Keep it simple, stupid"), ceea ce înseamnă că este făcut pentru minimalism, simplitate și eleganță, ceea ce pare să nu se aplice site-ului, care este aglomerat de legături. Utilizează interfața de utilizare CLI și este creată pentru computere cu medii de vârf. </ ArchLinux>
+<Fedora> Fedora este un sistem de operare orientat spre desktop, care include desktopul GNOME. Este destinat calculatoarelor de nivel mediu și mare. </ Fedora>
+<UbuntuMATE> Ubuntu cu mediul desktop MATE. Realizat pentru computere medii și mari. </ UbuntuMATE>
+<BodhiLinux> Bodhi linux este o altă distribuție linux ușoară folosind mediul desktop Moksha. </ BodhiLinux>
+<MandrivaLinux> Mandriva Linux utilizează spațiul de lucru KDE Plasma și utilizează managerul de pachete RPM. Este o siguranță între Mandrake Linux și Conectiva Linux. Este destinat calculatoarelor de nivel mediu și mare. </ MandrivaLinux>
+<CrunchBang> CrunchBang Linux (abreviat pur și simplu #!) Și utilizează mediul Openbox Desktop Environment. Acesta este întrerupt, dar este încă disponibil pentru descărcare ca BunsenLabs. este făcută pentru computere medii și mari. </ CrunchBang>
+<Peppermint> Menta este un sistem bazat pe nor, bazat pe Lubuntu. Utilizează mediul de lucru LXDE Desktop și se face pentru computere de joasă mediu. </ Peppermint>
+<BlackArchLinux> Arch Linux cu o răsucire orientată spre securitate. Ea este făcută pentru Pentesters și Cyberforensics. Utilizează interfața FluxBox și este destinată computerelor de nivel mediu și mare. [AVERTISMENT: UTILIZEAZĂ PÂNĂ LA 8GB DE STOCARE] </ BlackArchLinux>
+<BackBox> Backbox-ul este un sistem de operare care utilizează mediul desktop XFCE. Este destinat calculatoarelor de nivel mediu și mare. </ BackBox>
+<Tails> Tails este o distrubitie Linux orientata catre securitatea personala. De fapt, acesta este probabil cel mai sigur pe care îl puteți obține. Fiecare conexiune utilizează releul TOR și toate conexiunile non-anonime sunt blocate. Cozi OS se auto-distruge și nu lasă nici o amprentă decât dacă este explicit spus să facă acest lucru. Mediul desktop este GNOME și este destinat mașinilor cu capăt mediu și mare. </ Tails>
+<KaliLinux> Kali Linux este cea mai populară distribuție linux pentesting folosind desktopul GNOME. Realizat pentru computere medii și mari. </ KaliLinux>
+<SabayonLinux> Sabayon Linux este o distribuție linux italiană bazată pe Gentoo care utilizează desktopul GNOME. Este destinat calculatoarelor de nivel mediu și mare. </ SabayonLinux>
+<PinguyOS> Sistemul de operare Pinguy include multe programe preinstalate și utilizează mediul de lucru GNOME. Este destinat computerelor medii și mari. </ PinguyOS>
+<AlpineLinux> Alpine Linux este un sistem de operare simplu, eficient și eficient din punct de vedere al resurselor. Este făcută pentru utilizatorii avansați care nu au nevoie de o interfață grafică de utilizator, deoarece aceasta utilizează linia de comandă ca interfață implicită. Este destinat calculatoarelor low-end. </ AlpineLinux>
+<VoidLinux> Void Linux este un sistem de operare care utilizează Managerul de pachete XBPS și Cinnamon, deoarece este un mediu desktop implicit. Are un timp de pornire rapid și se face pentru computere de nivel mediu și mare. </ VoidLinux>
+<NixOS> Nix OS utilizează mediul desktop KDE Plasma. Este destinat calculatoarelor de nivel mediu și mare </ NixOS>
+<TinHatLinux> Tin Hat Linux este făcut pentru a împiedica guvernul să vă spioneze. Există doar în RAM, deci totul este șters după oprire. Se face extrem de sigur, stabil și rapid. Utilizează GUI-ul GNOME și se face pentru computere medii și mari. </ TinHatLinux>
+<CentOS> CentOS este Red Hat Enterprise Linux gratuit. Utilizează atât GNOME, cât și KDE Plasma, astfel încât să puteți alege mediul pe care doriți să îl executați. Recomandat pentru computerele medii și mari </ CentOS>
+<PuppyLinux> Zorin OS Core este un sistem de operare modernizat, elegant pentru persoanele care sosesc din Windows sau Macintosh. Aceasta poate fi cea mai bună distribuție Linux începută vreodată și utilizează desktopul Zorin ca interfață implicită. Aceasta este făcută pentru computerele cu medii de vârf. </ PuppyLinux>
+<FreeBSD> FreeBSD nu este nici măcar un sistem de operare Linux. Este complet original și are o interfață de linie de comandă. Este recomandat pentru computerele low-end. </ FreeBSD>
+<KaOS> KaOS este o distribuție standard KDE. Este recomandat pentru computerele cu medii de vârf. </ KaOS>
+<SteamOS> SteamOS este produs de Valve Inc. și este un sistem de operare personalizat construit pentru a gestiona lansatorul de aburi și toate jocurile sale. Utilizează mediul de lucru Steam Desktop și este recomandat pentru computerele cu medii de vârf. </ SteamOS>
+<ManjaroLinux> Manjaro Linux este un sistem de operare Linux bazat pe Arch-Linux, orientat spre facilitatea de utilizare. Utilizează KDE și este recomandat pentru mașinile cu capăt mediu și mare. </ ManjaroLinux>
+<KasperskyRescueDisk> Kaspersky Rescue Disk este un utilitar crucial pentru persoanele care pot avea ransomware care te împiedică să bootezi. Vă recomandăm să aveți întotdeauna un disc de salvare cu dvs. în orice moment, doar în caz. </ KasperskyRescueDisk>
+<OPHcrack> OPHCrack este un utilitar Windows Cracking Utility. Este util dacă ați uitat parola. </ OPHcrack>
+<DrWebLiveDisk> Discul Dr. Web Live vă va permite nu numai să eliminați programele malware care fac ca computerul dvs. să nu fie bootabil, ci și să vă recupereze datele. </ DrWebLiveDisk>
+<Parsix> Parsix este un sistem bazat pe Debian care utilizează desktopul GNOME. Proiectul este întrerupt acum. Este recomandat pentru mașinile cu capăt mediu și mare. </ Parsix>
+<ArchLabs> ArchLabs este o versiune ușoară rulantă Linux utilizând managerul de ferestre Openbox. Recomandat pentru mașinile cu capăt mediu și înalt. </ ArchLabs>
+<EndlessOS> Proiectul EndlessOS este optimizat pentru zone fără internet. Are o enciclopedie, calculator, dicționar, tezaur și alte aplicații pe care le puteți accesa fără internet. Această distrubuție folosește EOS Shell și are nevoie de o mașină cu capăt mediu și mare. </ EndlessOS>
+<Solus> Solus este un sistem de operare care nu are End of Life definit, deci dacă îl instalați, acesta se va actualiza indefinit. Utilizează mediul de lucru GNOME și este recomandat pentru computerele de nivel mediu și mare. </ Solus>
+<Deepin> Deepin este o distribuție chineză Linux bazată pe Debian. Acestea se concentrează pe un interfață utilizator ușor de utilizat și este cea mai populară distribuție chineză Linux în conformitate cu Distrowatch. Utilizează Deepin Desktop Environment și este recomandată pentru o mașină cu capăt mediu și mare </ Deepin>
+<MXLinux> MX Linux este o distribuție Linux de dimensiuni medii bazate pe Debian cu componente antiX. Utilizează Xfce Desktop Environment și este recomandat pentru mașinile cu capăt mediu și mare. </ MXLinux>
+<KDEneon> KDE Neon este Ubuntu cu cele mai noi pachete KDE. KDE Neon rulează pe mediul de lucru KDE și este recomandat pentru mașinile cu capăt mediu și mare. </ KDEneon>
+<ParrotSecurityOS> Parrot Security OS este una dintre cele mai bune distribuții Linux pentru administratorii de sistem. Acesta se bazează pe Debian și utilizează mediul de lucru MATE Desktop și se axează pe vulnerabilități și securitate. Este recomandat pentru mașinile cu capăt mediu și înalt. </ ParrotSecurityOS>
+<LXLE> LXLE se bazează pe cea mai recentă lansare Ubuntu LTS și este făcută a fi ușoară. Se concentrează pe realizarea unei estetici vizuale frumoase, care funcționează atât pe componente vechi, cât și pe cele noi. Utilizează LXDE ca Desktop Environment și este recomandat pentru mașinile de ultimă generație. </ LXLE>
+<Android-x86> Acest sistem de operare remarcabil are ca scop portarea sistemelor Android la computere. Deoarece este practic Android pe PC, nu are nevoie de hardware de ultimă oră, astfel încât ar trebui să puteți să-l folosiți foarte bine pe un computer de la un nivel inferior. </ Android-x86>
+<ferenOS> ferenOS se bazează pe Linux Mint și folosește Cinnamon Desktop Environment. Se recomandă utilizarea pe mașini cu capăt mediu și înalt. </ FerenOS>
+<BlackLabLinux> Black Lab nu înseamnă "Laboratorul Negru". Înseamnă "negru labrador". Utilizează mediul desktop MATE și este cel mai cunoscut pentru sprijinul acordat pluginurilor și pachetelor de browser pentru producția multimedia. Se recomandă să fie utilizat pe un computer de nivel mediu-mediu </ BlackLabLinux>
+<TinyCoreLinux> Tiny Core Linux este o distribuție drăguță de 12MB linux cu o interfață de linie de comandă. Este recomandat pentru mașinile cu capăt inferior. </ TinyCoreLinux>
+<4MLinux> 4M Linux este un sistem de operare de dimensiuni mici </ 4MLinux>
+<BluestarLinux> Bluestar Linux se bazează pe Arch Linux și dispune de desktop-ul KDE Plasma. Este recomandat pentru mașinile cu capăt mediu și mare. </ BluestarLinux>
+<QubesOS> Sistemul de operare Qubes OS este un sistem de operare orientat spre securitate, care utilizează funcția "Securitate prin izolare". Acesta se bazează pe Fedora și utilizează mediul desktop Xfce. Este recomandat pentru mașinile cu un nivel scăzut de mediu. </ QubesOS>
+<Netrunner> Netrunner este o distribuție linux bazată pe debian, cu un mediu de desktop KDE foarte personalizabil. </ Netrunner>
+<ROSA> ROSA este o distribuție rusă Linux care utilizează mediul desktop KDE Plasma Desktop. Recomandat pentru computerele de nivel mediu și mare. </ ROSA>
+<ExTiX> ExTiX este o distribuție Linux care include KDE Plasma ca mediu desktop. Recomandat pentru computerele cu medii de vârf. </ ExTiX>
+<ClearOS> ClearOS este o distribuție a serverului, ceea ce înseamnă că ar trebui să fie utilizată numai pe un computer de vârf. Încă nu cunosc mediul desktop, fie GNOME, fie KDE </ ClearOS>
+<RedcoreLinux> Redcore Linux este făcut pentru a aduce puterea Gentoo Linux la mase. Acesta funcționează în mediul de lucru LXQt Desktop, deci este recomandat pentru computerele low-end </ RedcoreLinux>
+<RevengeOS> Revenge OS se bazează pe Arch Linux și utilizează mediul de lucru LXQt Desktop și este recomandat pentru computerele low-end. </ RevengeOS>
+<ClonezillaLive> Clonezilla este un cloner de discuri și un recuperator de date. Este un utilitar. </ ClonezillaLive>
+<ChakraLinux> Chakra Linux se bazează pe Arch Linux și se concentrează asupra software-ului KDE. Utilizează spațiul de lucru KDE Plasma Desktop, deci este recomandat pentru un computer cu medii de vârf. </ ChakraLinux>
+<GeckoLinux> GeckoLinux este o distribuție linux bazată pe openSUSE și are o utilizare extraordinară. Utilizează desktopul GNOME, deci cel mai bine este pentru un calculator de nivel mediu și mediu. </ GeckoLinux>
+<NuTyX> NuTyX este o distribuție franceză Linux. </ NuTyX>
+<SharkLinux> SharkLinux este o distribuție Linux bazată pe Ubuntu care instalează automat actualizări și patch-uri de securitate. </ SharkLinux>
+<VectorLinux> Vectorul Linux este o distribuție mică care este recomandată pentru computerele low-end </ VectorLinux>
+<ScientificLinux> Red Hat Enterprise Linux a recodificat să fie gratuit și construit pentru știință! </ ScientificLinux>
+<TrisquelLinux> 100% construit pe Ubuntu. Este destinat publicului larg, cum ar fi utilizatorii de birouri și de acasă. Recomandat pentru mașinile de ultimă generație. </ TrisquelLinux>
+<AbsoluteLinux> Refacerea foarte ușoară a Slackware Linux. Folosește mediul desktop IceWM. Recomandat pentru mașinile de ultimă generație. </ AbsoluteLinux>
+<MintCinnamon> Linux Mint este o distribuție bazată pe Ubuntu, concentrată pe o experiență extra-cutie. Dispune de Cinnamon Desktop Environment. Recomandat pentru mașinile cu capăt mediu și înalt. </ MintCinnamon>
+<MintKDE> Linux Mint este o distribuție bazată pe Ubuntu, concentrată pe o experiență extra-cutie. Dispune de mediu desktop KDE Plasma. Recomandat pentru mașinile cu capăt mediu și mare. </ MintKDE>
+<MintMATE> Linux Mint este o distribuție bazată pe Ubuntu, concentrată pe o experiență extra-cutie. Dispune de mediu desktop MATE. Recomandat pentru mașinile cu capăt mediu și înalt. </ MintMATE>
+<MintXfce> Linux Mint este o distribuție bazată pe Ubuntu, concentrată pe o experiență extraordinară. Dispune de mediul de lucru Xfce Desktop. Recomandat pentru mașinile cu capăt mediu și înalt. </ MintXfce>
+<Debian> Suspectat a fi unul dintre cele mai populare sisteme de operare, Debian este practic semințele pentru majoritatea distribuțiilor Linux de pe piață. Dispune de mediul desktop GNOME și este recomandat pentru mașinile cu capăt mediu și mare. </ Debian>

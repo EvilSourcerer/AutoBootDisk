@@ -499,7 +499,7 @@ namespace AutoBootDisk
         private void ISOdownloader_DownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
         {
 
-            label12.Text = Convert.ToInt64(e.BytesReceived) + " Bytes Of " + Convert.ToInt64(e.TotalBytesToReceive) + " Received";
+            label12.Text = Convert.ToInt64(e.BytesReceived) + " / " + Convert.ToInt64(e.TotalBytesToReceive);
             progressBar1.Maximum = 100;
             progressBar1.Value = e.ProgressPercentage;
             label10.Text = e.ProgressPercentage.ToString() + "%";
@@ -1399,6 +1399,18 @@ namespace AutoBootDisk
             {
                 LANG_ = File.ReadAllText("DE.lang").Split('\n');
             }
+            else if (File.ReadAllText("SelectedLanguage.txt") == "Français")
+            {
+                LANG_ = File.ReadAllText("FR.lang").Split('\n');
+            }
+            else if (File.ReadAllText("SelectedLanguage.txt") == "Română")
+            {
+                LANG_ = File.ReadAllText("RO.lang").Split('\n');
+            }
+            else if (File.ReadAllText("SelectedLanguage.txt") == "Polskie")
+            {
+                LANG_ = File.ReadAllText("PO.lang").Split('\n');
+            }
             BeginInvoke(new Action(() =>
             {
                 for (int i = 0; i < 31; i++)
@@ -1408,7 +1420,8 @@ namespace AutoBootDisk
                     Control c_ = Controls.Find(Match_, true)[0];
                     c_.Text = LANG_TEXT;
                 }
-            })); 
+            }));
+
         }
     }
 }
