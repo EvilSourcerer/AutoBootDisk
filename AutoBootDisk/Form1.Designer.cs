@@ -184,7 +184,7 @@
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(132, 25);
             this.label22.TabIndex = 9;
-            this.label22.Text = "Version 5.6";
+            this.label22.Text = "Version 5.8";
             // 
             // button15
             // 
